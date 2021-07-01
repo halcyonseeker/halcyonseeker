@@ -36,3 +36,10 @@ Hi! My name is Thalia Wright, I'm a student at Reed College, an occasional progr
 - FreeBSD, a self-hoster's dream.
 - Homesteading, because civilization will probably collapse by the end of the century.
 - And much more ...
+
+📖 **I'm currently reading ...**
+- 🧙 *The Structure and Interpretations of Computer Programs*
+- ✝ *Isaac Asimov's Guide to the Bible*
+- 🏛 *Lingua Latina per se Illustrata, Pars I: Familia Romana*
+- 🚀 *Cibola Burn (The Expanse, #4)*
+- 🐍 *Heretics of Dune*
