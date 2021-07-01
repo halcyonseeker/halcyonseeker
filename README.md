@@ -28,7 +28,7 @@ Hi! My name is Thalia Wright, I'm a student at Reed College, an occasional progr
 - [audible-dl](https://sr.ht/~thalia/audible-dl), a tool to manage offline, DRM-free, libraries of audiobooks sourced from Audible.com.
 - [My dotfiles](https://git.sr.ht/~thalia/dotfiles), because the quest for perfection never ends.
 
-🌱 I’m currently learning ...
+🌱 **I’m currently learning ...**
 - Latin! Dead languages are the best.
 - Russian, living languages are okay too.
 - Lisp, the only programming language that is beautiful.
