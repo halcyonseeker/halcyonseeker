@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 Hi! My name is Thalia Wright, I'm a student at Reed College, an occasional programmer, and an aspiring fixer of the world's problems.
 
 📫 **You can reach me at ...**
-- [ulthar.xyz](ulthar.xyz), my personal website.
+- [ulthar.xyz](https://ulthar.xyz), my personal website.
 - [sr.ht/~thalia](https://sr.ht/~thalia), Sourcehut, where all my projects are hosted.
 - `ymir` **@** `ulthar.xzy`, via email.
 - `ymir` **@** `404.city`, via XMPP.
 
 
 🔭 **I’m currently working on ...**
-- [sr.ht/~thalia/audible-dl](audible-dl), a tool to manage offline, DRM-free, libraries of audiobooks sourced from Audible.com.
-- [git.sr.ht/~thalia/dotfiles](My dotfiles), because the quest for perfection never ends.
+- [audible-dl](https://sr.ht/~thalia/audible-dl), a tool to manage offline, DRM-free, libraries of audiobooks sourced from Audible.com.
+- [My dotfiles](https://git.sr.ht/~thalia/dotfiles), because the quest for perfection never ends.
 
 🌱 I’m currently learning ...
 - Latin! Dead languages are the best.
