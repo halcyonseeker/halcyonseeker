@@ -20,7 +20,7 @@ Hi! My name is Thalia Wright, I'm a student at Reed College, an occasional progr
 📫 **You can reach me at ...**
 - [ulthar.xyz](https://ulthar.xyz), my personal website.
 - [sr.ht/~thalia](https://sr.ht/~thalia), Sourcehut, where all my projects are hosted.
-- `ymir` **@** `ulthar.xzy`, via email.
+- `ymir` **@** `ulthar.xyz`, via email.
 - `ymir` **@** `404.city`, via XMPP.
 
 
