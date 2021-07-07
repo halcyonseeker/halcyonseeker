@@ -41,5 +41,6 @@ Hi! My name is Thalia Wright, I'm a student at Reed College, an occasional progr
 - 🧙 *The Structure and Interpretations of Computer Programs*
 - ✝ *Isaac Asimov's Guide to the Bible*
 - 🏛 *Lingua Latina per se Illustrata, Pars I: Familia Romana*
-- 🚀 *Cibola Burn (The Expanse, #4)*
-- 🐍 *Heretics of Dune*
+- 🚀 *Cibola Burn (The Expanse, IV)*
+- 🐍 *Heretics of Dune (Dune, VII)*
+- 🌹 *The Song of Susannah (The Dark Tower VI)*
