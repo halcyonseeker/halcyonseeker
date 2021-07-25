@@ -44,3 +44,5 @@ Hi! My name is Thalia Wright, I'm a student at Reed College, an occasional progr
 - 🚀 *Cibola Burn (The Expanse, IV)*
 - 🐍 *Heretics of Dune (Dune, VII)*
 - 🌹 *The Song of Susannah (The Dark Tower VI)*
+- 🔬 *Harry Potter and The Methods of Rationality*
+- 🤔 *Gödel, Escher, Bach: An Eternal Golden Braid*
