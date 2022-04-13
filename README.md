@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 For a full bio, contact information, and CV, see my website: https://ulthar.xyz
 
-For more reliably up-to-date code see my Gitea instance: https://git.ulthar.xyz
+For more reliably up-to-date code see my Gitea instance: https://git.ulthar.xyz/ymir
 
 I don't have a UPS for my server so sometimes my websites go down, sorry 🤷
+
+You can reach me via email at `ymir` **@** `ulthar.xyz`
