@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-For a full bio, contact information, and CV, see my website: https://thalia.srht.site (ulthar.xyz is temporarily down).
+For a full bio, contact information, and CV, see my website: https://ulthar.xyz. 
 
 You can reach me via email at `ymir` **@** `ulthar.xyz`
